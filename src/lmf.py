@@ -54,6 +54,7 @@ def summarise(df: pd.DataFrame) -> pd.DataFrame:
     e["death"] = e["mortstat"] == 1
     e["death_10y"] = e["death"] & (e["permth_exm"] <= TEN_YEARS_MONTHS)
     e["heart_death"] = e["death"] & (e["ucod_leading"].fillna("") == HEART_DISEASE)
+    e["heart_death_10y"] = e["heart_death"] & (e["permth_exm"] <= TEN_YEARS_MONTHS)
     e["cause_missing"] = e["death"] & e["ucod_leading"].isna()
     e["no_exam_followup"] = e["permth_exm"].isna()
     e["alive_short_followup"] = (~e["death"]) & (e["permth_exm"] < TEN_YEARS_MONTHS)
@@ -63,6 +64,7 @@ def summarise(df: pd.DataFrame) -> pd.DataFrame:
         deaths=("death", "sum"),
         deaths_within_120m=("death_10y", "sum"),
         heart_disease_deaths=("heart_death", "sum"),
+        heart_deaths_within_120m=("heart_death_10y", "sum"),
         deaths_cause_missing=("cause_missing", "sum"),
         no_exam_followup=("no_exam_followup", "sum"),
         alive_followup_lt_120m=("alive_short_followup", "sum"),

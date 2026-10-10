@@ -22,3 +22,9 @@ Among US adults aged 40-79 with no prior cardiovascular disease at their NHANES 
 
 ## Data attribution
 National Center for Health Statistics. NHANES public-use linked mortality files (2019) and NHANES data, CDC/NCHS. Analyses and conclusions are the author's, not NCHS's.
+
+## Amendments (after reading NCHS methodology documentation; before any modelling)
+- Follow-up is truncated at 120 months from the exam date: deaths after month 120 count as survivors at 10 years.
+- Weights: NCHS provides no linkage-eligibility-adjusted weights for NHANES. Ineligible adults are about 0.1% of the sample (30 of 28,852), so no adjustment is applied. Pooled analyses divide the 2-year weights by the number of cycles pooled (NCHS recommendation).
+- H3 caveat: mortality ascertainment via NDI linkage may differ by race/ethnicity. NCHS's own 2015-vs-2019 linkage comparison moves the NHANES Mexican American hazard ratio from 1.00 to 0.67. Subgroup over-prediction cannot be separated from missed deaths in that subgroup and will be reported with this limitation.
+- The public-use files substitute synthetic follow-up time or cause of death for select records; the share is not published in the documents reviewed. Heart-disease death is secondary only. A horizon sensitivity check at 5, 8 and 10 years will test the stability of the primary outcome.
