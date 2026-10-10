@@ -1,0 +1,176 @@
+cycle,key,variable,files,label
+1999_2000,SEQN,SEQN,BMX|BPQ|BPX|DEMO|DIQ|LAB10|LAB11|LAB13|LAB13AM|LAB18|LEXABPI|MCQ|SMQ|SSCARD_A,Respondent sequence number
+1999_2000,age_years,RIDAGEYR,DEMO,Age at Screening Adjudicated - Recode
+1999_2000,sex,RIAGENDR,DEMO,Gender
+1999_2000,race_ethnicity,RIDRETH1,DEMO,Race/Ethnicity - Recode
+1999_2000,exam_weight_2yr,WTMEC2YR,DEMO,Full Sample 2 Year MEC Exam Weight
+1999_2000,psu,SDMVPSU,DEMO,Masked Variance Pseudo-PSU
+1999_2000,strata,SDMVSTRA,DEMO,Masked Variance Pseudo-Stratum
+1999_2000,education_adult,DMDEDUC2,DEMO,Education Level - Adults 20+
+1999_2000,income_poverty_ratio,INDFMPIR,DEMO,Family PIR
+1999_2000,sbp_1,BPXSY1,BPX,Systolic: Blood pres  (1st rdg) mm Hg
+1999_2000,sbp_2,BPXSY2,BPX,Systolic: Blood pres  (2nd rdg) mm Hg
+1999_2000,sbp_3,BPXSY3,BPX,Systolic: Blood pres  (3rd rdg) mm Hg
+1999_2000,sbp_4,BPXSY4,BPX,Systolic: Blood pres  (4th rdg) mm Hg
+1999_2000,dbp_1,BPXDI1,BPX,Diastolic: Blood pres  (1st rdg) mm Hg
+1999_2000,dbp_2,BPXDI2,BPX,Diastolic: Blood pres  (2nd rdg) mm Hg
+1999_2000,dbp_3,BPXDI3,BPX,Diastolic: Blood pres  (3rd rdg) mm Hg
+1999_2000,dbp_4,BPXDI4,BPX,Diastolic: Blood pres  (4th rdg) mm Hg
+1999_2000,bmi,BMXBMI,BMX,Body Mass Index (kg/m**2)
+1999_2000,waist_cm,BMXWAIST,BMX,Waist Circumference (cm)
+1999_2000,total_cholesterol,LBXTC,LAB13,Total cholesterol (mg/dL)
+1999_2000,hdl,LBDHDL,LAB13,HDL-cholesterol (mg/dL)
+1999_2000,hba1c,LBXGH,LAB10,Glycohemoglobin:(%)
+1999_2000,creatinine,LBXSCR,LAB18,Creatinine (mg/dL)
+1999_2000,crp,LBXCRP,LAB11,C-reactive protein(mg/dL)
+1999_2000,chf,MCQ160B,MCQ,Ever told had congestive heart failure
+1999_2000,chd,MCQ160C,MCQ,Ever told you had coronary heart disease
+1999_2000,angina,MCQ160D,MCQ,Ever told you had angina/angina pectoris
+1999_2000,heart_attack,MCQ160E,MCQ,Ever told you had heart attack
+1999_2000,stroke,MCQ160F,MCQ,Ever told you had a stroke
+1999_2000,smoked_100_cigs,SMQ020,SMQ,Smoked at least 100 cigarettes in life
+1999_2000,current_smoker,SMQ040,SMQ,Do you now smoke cigarettes...
+1999_2000,diabetes_told,DIQ010,DIQ,Doctor told you have diabetes
+1999_2000,told_high_bp,BPQ020,BPQ,Ever told you had high blood pressure
+1999_2000,bp_med_ever,BPQ040A,BPQ,Taking prescription for hypertension
+1999_2000,bp_med_now,BPQ050A,BPQ,Now taking prescribed medicine
+2001_2002,SEQN,SEQN,BMX_B|BPQ_B|BPX_B|DEMO_B|DIQ_B|L10_2_B|L10_B|L11_2_B|L11_B|L13AM_B|L13_2_B|L13_B|L40_2_B|L40_B|LEXAB_B|MCQ_B|SMQ_B|SSCARD_A,Respondent sequence number
+2001_2002,age_years,RIDAGEYR,DEMO_B,Age at Screening Adjudicated - Recode
+2001_2002,sex,RIAGENDR,DEMO_B,Gender
+2001_2002,race_ethnicity,RIDRETH1,DEMO_B,Race/Ethnicity - Recode
+2001_2002,exam_weight_2yr,WTMEC2YR,DEMO_B,Full Sample 2 Year MEC Exam Weight
+2001_2002,psu,SDMVPSU,DEMO_B,Masked Variance Pseudo-PSU
+2001_2002,strata,SDMVSTRA,DEMO_B,Masked Variance Pseudo-Stratum
+2001_2002,education_adult,DMDEDUC2,DEMO_B,Education Level - Adults 20+
+2001_2002,income_poverty_ratio,INDFMPIR,DEMO_B,Family PIR
+2001_2002,sbp_1,BPXSY1,BPX_B,Systolic: Blood pres  (1st rdg) mm Hg
+2001_2002,sbp_2,BPXSY2,BPX_B,Systolic: Blood pres  (2nd rdg) mm Hg
+2001_2002,sbp_3,BPXSY3,BPX_B,Systolic: Blood pres  (3rd rdg) mm Hg
+2001_2002,sbp_4,BPXSY4,BPX_B,Systolic: Blood pres  (4th rdg) mm Hg
+2001_2002,dbp_1,BPXDI1,BPX_B,Diastolic: Blood pres  (1st rdg) mm Hg
+2001_2002,dbp_2,BPXDI2,BPX_B,Diastolic: Blood pres  (2nd rdg) mm Hg
+2001_2002,dbp_3,BPXDI3,BPX_B,Diastolic: Blood pres  (3rd rdg) mm Hg
+2001_2002,dbp_4,BPXDI4,BPX_B,Diastolic: Blood pres  (4th rdg) mm Hg
+2001_2002,bmi,BMXBMI,BMX_B,Body Mass Index (kg/m**2)
+2001_2002,waist_cm,BMXWAIST,BMX_B,Waist Circumference (cm)
+2001_2002,total_cholesterol,LBXTC,L13_B,Total cholesterol (mg/dL)
+2001_2002,hdl,LBDHDL,L13_B,HDL-cholesterol (mg/dL)
+2001_2002,hba1c,LBXGH,L10_B,Glycohemoglobin (%)
+2001_2002,creatinine,LBDSCR,L40_B,Creatinine (mg/dL)
+2001_2002,crp,LBXCRP,L11_B,C-reactive protein(mg/dL)
+2001_2002,chf,MCQ160B,MCQ_B,Ever told had congestive heart failure
+2001_2002,chd,MCQ160C,MCQ_B,Ever told you had coronary heart disease
+2001_2002,angina,MCQ160D,MCQ_B,Ever told you had angina/angina pectoris
+2001_2002,heart_attack,MCQ160E,MCQ_B,Ever told you had heart attack
+2001_2002,stroke,MCQ160F,MCQ_B,Ever told you had a stroke
+2001_2002,smoked_100_cigs,SMQ020,SMQ_B,Smoked at least 100 cigarettes in life
+2001_2002,current_smoker,SMQ040,SMQ_B,Do you now smoke cigarettes
+2001_2002,diabetes_told,DIQ010,DIQ_B,Doctor told you have diabetes
+2001_2002,told_high_bp,BPQ020,BPQ_B,Ever told you had high blood pressure
+2001_2002,bp_med_ever,BPQ040A,BPQ_B,Taking prescription for hypertension
+2001_2002,bp_med_now,BPQ050A,BPQ_B,Now taking prescribed medicine
+2003_2004,SEQN,SEQN,BMX_C|BPQ_C|BPX_C|DEMO_C|DIQ_C|L10_C|L11_C|L13AM_C|L13_C|L40_C|LEXAB_C|MCQ_C|SMQ_C|SSCARD_A,Respondent sequence number
+2003_2004,age_years,RIDAGEYR,DEMO_C,Age at Screening Adjudicated - Recode
+2003_2004,sex,RIAGENDR,DEMO_C,Gender
+2003_2004,race_ethnicity,RIDRETH1,DEMO_C,Race/Ethnicity - Recode
+2003_2004,exam_weight_2yr,WTMEC2YR,DEMO_C,Full Sample 2 Year MEC Exam Weight
+2003_2004,psu,SDMVPSU,DEMO_C,Masked Variance Pseudo-PSU
+2003_2004,strata,SDMVSTRA,DEMO_C,Masked Variance Pseudo-Stratum
+2003_2004,education_adult,DMDEDUC2,DEMO_C,Education Level - Adults 20+
+2003_2004,income_poverty_ratio,INDFMPIR,DEMO_C,Family PIR
+2003_2004,sbp_1,BPXSY1,BPX_C,Systolic:  Blood pres (1st rdg) mm Hg
+2003_2004,sbp_2,BPXSY2,BPX_C,Systolic:  Blood pres (2nd rdg) mm Hg
+2003_2004,sbp_3,BPXSY3,BPX_C,Systolic:  Blood pres (3rd rdg) mm Hg
+2003_2004,sbp_4,BPXSY4,BPX_C,Systolic: Blood pres (4th rdg) mm Hg
+2003_2004,dbp_1,BPXDI1,BPX_C,Diastolic:  Blood pres (1st rdg) mm Hg
+2003_2004,dbp_2,BPXDI2,BPX_C,Diastolic: Blood pres (2nd rdg) mm Hg
+2003_2004,dbp_3,BPXDI3,BPX_C,Diastolic: Blood pres (3rd rdg) mm Hg
+2003_2004,dbp_4,BPXDI4,BPX_C,Diastolic:  Blood pres (4th rdg) mm Hg
+2003_2004,bmi,BMXBMI,BMX_C,Body Mass Index (kg/m**2)
+2003_2004,waist_cm,BMXWAIST,BMX_C,Waist Circumference (cm)
+2003_2004,total_cholesterol,LBXTC,L13_C,Total Cholesterol( mg/dL)
+2003_2004,hdl,LBXHDD,L13_C,Direct HDL-Cholesterol (mg/dL)
+2003_2004,hba1c,LBXGH,L10_C,Glycohemoglobin (%)
+2003_2004,creatinine,LBXSCR,L40_C,Creatinine (mg/dL)
+2003_2004,crp,LBXCRP,L11_C,C-reactive protein(mg/dL)
+2003_2004,chf,MCQ160B,MCQ_C,Ever told had congestive heart failure
+2003_2004,chd,MCQ160C,MCQ_C,Ever told you had coronary heart disease
+2003_2004,angina,MCQ160D,MCQ_C,Ever told you had angina/angina pectoris
+2003_2004,heart_attack,MCQ160E,MCQ_C,Ever told you had heart attack
+2003_2004,stroke,MCQ160F,MCQ_C,Ever told you had a stroke
+2003_2004,smoked_100_cigs,SMQ020,SMQ_C,Smoked at least 100 cigarettes in life
+2003_2004,current_smoker,SMQ040,SMQ_C,Do you now smoke cigarettes
+2003_2004,diabetes_told,DIQ010,DIQ_C,Doctor told you have diabetes
+2003_2004,told_high_bp,BPQ020,BPQ_C,Ever told you had high blood pressure
+2003_2004,bp_med_ever,BPQ040A,BPQ_C,Taking prescription for hypertension
+2003_2004,bp_med_now,BPQ050A,BPQ_C,Now taking prescribed medicine
+2005_2006,SEQN,SEQN,BIOPRO_D|BMX_D|BPQ_D|BPX_D|CRP_D|DEMO_D|DIQ_D|GHB_D|HDL_D|MCQ_D|SMQ_D|TCHOL_D|TRIGLY_D,Respondent sequence number
+2005_2006,age_years,RIDAGEYR,DEMO_D,Age at Screening Adjudicated - Recode
+2005_2006,sex,RIAGENDR,DEMO_D,Gender
+2005_2006,race_ethnicity,RIDRETH1,DEMO_D,Race/Ethnicity - Recode
+2005_2006,exam_weight_2yr,WTMEC2YR,DEMO_D,Full Sample 2 Year MEC Exam Weight
+2005_2006,psu,SDMVPSU,DEMO_D,Masked Variance Pseudo-PSU
+2005_2006,strata,SDMVSTRA,DEMO_D,Masked Variance Pseudo-Stratum
+2005_2006,education_adult,DMDEDUC2,DEMO_D,Education Level - Adults 20+
+2005_2006,income_poverty_ratio,INDFMPIR,DEMO_D,Family PIR
+2005_2006,sbp_1,BPXSY1,BPX_D,Systolic:  Blood pres (1st rdg) mm Hg
+2005_2006,sbp_2,BPXSY2,BPX_D,Systolic:  Blood pres (2nd rdg) mm Hg
+2005_2006,sbp_3,BPXSY3,BPX_D,Systolic:  Blood pres (3rd rdg) mm Hg
+2005_2006,sbp_4,BPXSY4,BPX_D,Systolic: Blood pres (4th rdg) mm Hg
+2005_2006,dbp_1,BPXDI1,BPX_D,Diastolic:  Blood pres (1st rdg) mm Hg
+2005_2006,dbp_2,BPXDI2,BPX_D,Diastolic: Blood pres (2nd rdg) mm Hg
+2005_2006,dbp_3,BPXDI3,BPX_D,Diastolic: Blood pres (3rd rdg) mm Hg
+2005_2006,dbp_4,BPXDI4,BPX_D,Diastolic:  Blood pres (4th rdg) mm Hg
+2005_2006,bmi,BMXBMI,BMX_D,Body Mass Index (kg/m**2)
+2005_2006,waist_cm,BMXWAIST,BMX_D,Waist Circumference (cm)
+2005_2006,total_cholesterol,LBXTC,TCHOL_D,Total Cholesterol( mg/dL)
+2005_2006,hdl,LBDHDD,HDL_D,Direct HDL-Cholesterol (mg/dL)
+2005_2006,hba1c,LBXGH,GHB_D,Glycohemoglobin (%)
+2005_2006,creatinine,LBXSCR,BIOPRO_D,Creatinine (mg/dL)
+2005_2006,crp,LBXCRP,CRP_D,C-reactive protein(mg/dL)
+2005_2006,chf,MCQ160B,MCQ_D,Ever told had congestive heart failure
+2005_2006,chd,MCQ160C,MCQ_D,Ever told you had coronary heart disease
+2005_2006,angina,MCQ160D,MCQ_D,Ever told you had angina/angina pectoris
+2005_2006,heart_attack,MCQ160E,MCQ_D,Ever told you had heart attack
+2005_2006,stroke,MCQ160F,MCQ_D,Ever told you had a stroke
+2005_2006,smoked_100_cigs,SMQ020,SMQ_D,Smoked at least 100 cigarettes in life
+2005_2006,current_smoker,SMQ040,SMQ_D,Do you now smoke cigarettes
+2005_2006,diabetes_told,DIQ010,DIQ_D,Doctor told you have diabetes
+2005_2006,told_high_bp,BPQ020,BPQ_D,Ever told you had high blood pressure
+2005_2006,bp_med_ever,BPQ040A,BPQ_D,Taking prescription for hypertension
+2005_2006,bp_med_now,BPQ050A,BPQ_D,Now taking prescribed medicine for HBP
+2007_2008,SEQN,SEQN,BIOPRO_E|BMX_E|BPQ_E|BPX_E|CRP_E|DEMO_E|DIQ_E|GHB_E|HDL_E|MCQ_E|SMQ_E|TCHOL_E|TRIGLY_E,Respondent sequence number
+2007_2008,age_years,RIDAGEYR,DEMO_E,Age at Screening Adjudicated - Recode
+2007_2008,sex,RIAGENDR,DEMO_E,Gender
+2007_2008,race_ethnicity,RIDRETH1,DEMO_E,Race/Ethnicity - Recode
+2007_2008,exam_weight_2yr,WTMEC2YR,DEMO_E,Full Sample 2 Year MEC Exam Weight
+2007_2008,psu,SDMVPSU,DEMO_E,Masked Variance Pseudo-PSU
+2007_2008,strata,SDMVSTRA,DEMO_E,Masked Variance Pseudo-Stratum
+2007_2008,education_adult,DMDEDUC2,DEMO_E,Education Level - Adults 20+
+2007_2008,income_poverty_ratio,INDFMPIR,DEMO_E,Ratio of family income to poverty
+2007_2008,sbp_1,BPXSY1,BPX_E,Systolic:  Blood pres (1st rdg) mm Hg
+2007_2008,sbp_2,BPXSY2,BPX_E,Systolic:  Blood pres (2nd rdg) mm Hg
+2007_2008,sbp_3,BPXSY3,BPX_E,Systolic:  Blood pres (3rd rdg) mm Hg
+2007_2008,sbp_4,BPXSY4,BPX_E,Systolic: Blood pres (4th rdg) mm Hg
+2007_2008,dbp_1,BPXDI1,BPX_E,Diastolic:  Blood pres (1st rdg) mm Hg
+2007_2008,dbp_2,BPXDI2,BPX_E,Diastolic: Blood pres (2nd rdg) mm Hg
+2007_2008,dbp_3,BPXDI3,BPX_E,Diastolic: Blood pres (3rd rdg) mm Hg
+2007_2008,dbp_4,BPXDI4,BPX_E,Diastolic:  Blood pres (4th rdg) mm Hg
+2007_2008,bmi,BMXBMI,BMX_E,Body Mass Index (kg/m**2)
+2007_2008,waist_cm,BMXWAIST,BMX_E,Waist Circumference (cm)
+2007_2008,total_cholesterol,LBXTC,TCHOL_E,Total Cholesterol (mg/dL)
+2007_2008,hdl,LBDHDD,HDL_E,Direct HDL-Cholesterol (mg/dL)
+2007_2008,hba1c,LBXGH,GHB_E,Glycohemoglobin (%)
+2007_2008,creatinine,LBXSCR,BIOPRO_E,Creatinine (mg/dL)
+2007_2008,crp,LBXCRP,CRP_E,C-reactive protein(mg/dL)
+2007_2008,chf,MCQ160B,MCQ_E,Ever told had congestive heart failure
+2007_2008,chd,MCQ160C,MCQ_E,Ever told you had coronary heart disease
+2007_2008,angina,MCQ160D,MCQ_E,Ever told you had angina/angina pectoris
+2007_2008,heart_attack,MCQ160E,MCQ_E,Ever told you had heart attack
+2007_2008,stroke,MCQ160F,MCQ_E,Ever told you had a stroke
+2007_2008,smoked_100_cigs,SMQ020,SMQ_E,Smoked at least 100 cigarettes in life
+2007_2008,current_smoker,SMQ040,SMQ_E,Do you now smoke cigarettes
+2007_2008,diabetes_told,DIQ010,DIQ_E,Doctor told you have diabetes
+2007_2008,told_high_bp,BPQ020,BPQ_E,Ever told you had high blood pressure
+2007_2008,bp_med_ever,BPQ040A,BPQ_E,Taking prescription for hypertension
+2007_2008,bp_med_now,BPQ050A,BPQ_E,Now taking prescribed medicine for HBP

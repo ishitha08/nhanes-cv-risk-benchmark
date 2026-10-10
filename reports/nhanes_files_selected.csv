@@ -1,0 +1,73 @@
+cycle,component,title,file,url
+1999_2000,Demographics,Demographic Variables & Sample Weights,DEMO.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/DEMO.xpt
+1999_2000,Examination,Blood Pressure,BPX.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/BPX.xpt
+1999_2000,Examination,Body Measures,BMX.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/BMX.xpt
+1999_2000,Examination,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,LEXABPI.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/LEXABPI.xpt
+1999_2000,Laboratory,Cholesterol - LDL & Triglycerides,LAB13AM.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/LAB13AM.xpt
+1999_2000,Laboratory,Cholesterol - Total & HDL,LAB13.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/LAB13.xpt
+1999_2000,Laboratory,C-Reactive Protein (CRP),LAB11.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/LAB11.xpt
+1999_2000,Laboratory,"Glycated albumin, Beta-2 Microglobulin, Cystatin C (Surplus)",SSCARD_A.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/SSCARD_A.xpt
+1999_2000,Laboratory,Glycohemoglobin,LAB10.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/LAB10.xpt
+1999_2000,Laboratory,Standard Biochemistry Profile & Hormones,LAB18.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/LAB18.xpt
+1999_2000,Questionnaire,Blood Pressure & Cholesterol,BPQ.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/BPQ.xpt
+1999_2000,Questionnaire,Diabetes,DIQ.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/DIQ.xpt
+1999_2000,Questionnaire,Medical Conditions,MCQ.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/MCQ.xpt
+1999_2000,Questionnaire,Smoking - Cigarette/Tobacco Use - Adult,SMQ.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/SMQ.xpt
+2001_2002,Demographics,Demographic Variables & Sample Weights,DEMO_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/DEMO_B.xpt
+2001_2002,Examination,Blood Pressure,BPX_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/BPX_B.xpt
+2001_2002,Examination,Body Measures,BMX_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/BMX_B.xpt
+2001_2002,Examination,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,LEXAB_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/LEXAB_B.xpt
+2001_2002,Laboratory,Cholesterol - LDL & Triglycerides,L13AM_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L13AM_B.xpt
+2001_2002,Laboratory,Cholesterol - Total & HDL,L13_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L13_B.xpt
+2001_2002,Laboratory,"Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam",L13_2_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L13_2_B.xpt
+2001_2002,Laboratory,"C-Reactive Protein & Others, Second Exam",L11_2_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L11_2_B.xpt
+2001_2002,Laboratory,"C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides",L11_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L11_B.xpt
+2001_2002,Laboratory,"Glycated albumin, Beta-2 Microglobulin, Cystatin C (Surplus)",SSCARD_A.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/SSCARD_A.xpt
+2001_2002,Laboratory,Glycohemoglobin,L10_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L10_B.xpt
+2001_2002,Laboratory,"Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam",L10_2_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L10_2_B.xpt
+2001_2002,Laboratory,Standard Biochemistry Profile,L40_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L40_B.xpt
+2001_2002,Laboratory,"Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam",L40_2_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/L40_2_B.xpt
+2001_2002,Questionnaire,Blood Pressure & Cholesterol,BPQ_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/BPQ_B.xpt
+2001_2002,Questionnaire,Diabetes,DIQ_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/DIQ_B.xpt
+2001_2002,Questionnaire,Medical Conditions,MCQ_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/MCQ_B.xpt
+2001_2002,Questionnaire,Smoking - Cigarette/Tobacco Use - Adult,SMQ_B.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2001/DataFiles/SMQ_B.xpt
+2003_2004,Demographics,Demographic Variables & Sample Weights,DEMO_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/DEMO_C.xpt
+2003_2004,Examination,Blood Pressure,BPX_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/BPX_C.xpt
+2003_2004,Examination,Body Measures,BMX_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/BMX_C.xpt
+2003_2004,Examination,Lower Extremity Disease - Ankle Brachial Blood Pressure Index,LEXAB_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/LEXAB_C.xpt
+2003_2004,Laboratory,Cholesterol - LDL & Triglycerides,L13AM_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/L13AM_C.xpt
+2003_2004,Laboratory,Cholesterol - Total & HDL,L13_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/L13_C.xpt
+2003_2004,Laboratory,"C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)",L11_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/L11_C.xpt
+2003_2004,Laboratory,"Glycated albumin, Beta-2 Microglobulin, Cystatin C (Surplus)",SSCARD_A.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1999/DataFiles/SSCARD_A.xpt
+2003_2004,Laboratory,Glycohemoglobin,L10_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/L10_C.xpt
+2003_2004,Laboratory,Standard Biochemistry Profile,L40_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/L40_C.xpt
+2003_2004,Questionnaire,Blood Pressure & Cholesterol,BPQ_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/BPQ_C.xpt
+2003_2004,Questionnaire,Diabetes,DIQ_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/DIQ_C.xpt
+2003_2004,Questionnaire,Medical Conditions,MCQ_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/MCQ_C.xpt
+2003_2004,Questionnaire,Smoking - Cigarette/Tobacco Use - Adult,SMQ_C.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2003/DataFiles/SMQ_C.xpt
+2005_2006,Demographics,Demographic Variables & Sample Weights,DEMO_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/DEMO_D.xpt
+2005_2006,Examination,Blood Pressure,BPX_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/BPX_D.xpt
+2005_2006,Examination,Body Measures,BMX_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/BMX_D.xpt
+2005_2006,Laboratory,Cholesterol - HDL,HDL_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/HDL_D.xpt
+2005_2006,Laboratory,"Cholesterol - LDL, Triglyceride & Apoliprotein (ApoB)",TRIGLY_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/TRIGLY_D.xpt
+2005_2006,Laboratory,Cholesterol - Total,TCHOL_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/TCHOL_D.xpt
+2005_2006,Laboratory,C-Reactive Protein (CRP),CRP_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/CRP_D.xpt
+2005_2006,Laboratory,Glycohemoglobin,GHB_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/GHB_D.xpt
+2005_2006,Laboratory,Standard Biochemistry Profile,BIOPRO_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/BIOPRO_D.xpt
+2005_2006,Questionnaire,Blood Pressure & Cholesterol,BPQ_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/BPQ_D.xpt
+2005_2006,Questionnaire,Diabetes,DIQ_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/DIQ_D.xpt
+2005_2006,Questionnaire,Medical Conditions,MCQ_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/MCQ_D.xpt
+2005_2006,Questionnaire,Smoking - Cigarette Use,SMQ_D.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2005/DataFiles/SMQ_D.xpt
+2007_2008,Demographics,Demographic Variables & Sample Weights,DEMO_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/DEMO_E.xpt
+2007_2008,Examination,Blood Pressure,BPX_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/BPX_E.xpt
+2007_2008,Examination,Body Measures,BMX_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/BMX_E.xpt
+2007_2008,Laboratory,Cholesterol - HDL,HDL_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/HDL_E.xpt
+2007_2008,Laboratory,Cholesterol - LDL & Triglycerides,TRIGLY_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/TRIGLY_E.xpt
+2007_2008,Laboratory,Cholesterol - Total,TCHOL_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/TCHOL_E.xpt
+2007_2008,Laboratory,C-Reactive Protein (CRP),CRP_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/CRP_E.xpt
+2007_2008,Laboratory,Glycohemoglobin,GHB_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/GHB_E.xpt
+2007_2008,Laboratory,Standard Biochemistry Profile,BIOPRO_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/BIOPRO_E.xpt
+2007_2008,Questionnaire,Blood Pressure & Cholesterol,BPQ_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/BPQ_E.xpt
+2007_2008,Questionnaire,Diabetes,DIQ_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/DIQ_E.xpt
+2007_2008,Questionnaire,Medical Conditions,MCQ_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/MCQ_E.xpt
+2007_2008,Questionnaire,Smoking - Cigarette Use,SMQ_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/SMQ_E.xpt
